@@ -24,6 +24,7 @@
 
 These servers aim to demonstrate MCP features and the TypeScript and Python SDKs.
 
+- [TsvetanG2/cognigy-ai-mcp-management-server](https://github.com/TsvetanG2/cognigy-ai-mcp-management-server) 📇 - Management and automation server for the Cognigy.AI conversational AI platform. 132 tools across flows, agents, snapshots, NLU, and deployment. In the official MCP Registry.
 - **[Everything](https://github.com/modelcontextprotocol/servers/blob/main/src/everything)** - Reference / test server with prompts, resources, and tools
 - **[Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)** - Web content fetching and conversion for efficient LLM usage
 - **[Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)** - Secure file operations with configurable access controls
